@@ -1,2 +1,5 @@
-# Typora-Pictures-Store
-存储使用Typora编写Markdown文档时的上传图片，使图片能够脱离本地访问。
+# PicGo-Pictures-Store
+
+![水大叔](https://raw.githubusercontent.com/nonhana/Typora-Pictures-Store/master/images/111639064.png)
+
+存储使用PicGo上传的图片，也就是所谓的“图床”，使图片能够脱离本地访问。
